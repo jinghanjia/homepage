@@ -1,34 +1,33 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Wang"
+  - firstname: ["Zhangyang"]
+    url: https://vita-group.github.io/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+# "Chen"
+#   - firstname: ["Pin-Yu"]
+#     url: https://tianlong-chen.github.io/about/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+#   - firstname: ["Tianlong"]
+#     url: https://tianlong-chen.github.io/about/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Zhang"
+  - firstname: ["Guanhua"]
+    url: https://ghzhang233.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+  - firstname: ["Zhenyu"]
+    url: https://scholar.google.com/citations?user=ZLyJRxoAAAAJ&hl=en
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+  - firstname: ["Gaoyuan"]
+    url: https://mitibmwatsonailab.mit.edu/people/gaoyuan-zhang/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Lu"
+  - firstname: ["Songtao"]
+    url: https://sites.google.com/site/lusongtaoee
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Jia"
+  - firstname: ["Jinghan"]
+    url: https://jinghanjia.netlify.app/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Martie"
+  - firstname: ["Lee"]
+    url: https://mitibmwatsonailab.mit.edu/people/lee-martie/
+
