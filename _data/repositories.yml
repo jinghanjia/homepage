@@ -5,4 +5,5 @@ github_users:
 github_repos:
   - sayakpaul/robustness-foundation-models
   - OPTML-Group/CLAW-SAT
+  - OPTML-Group/Unlearn-Sparse
 
