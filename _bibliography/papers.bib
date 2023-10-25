@@ -31,37 +31,6 @@
   journal={arXiv preprint arXiv:2211.04930},
   year={2022}
 }
-@article{jia2023model,
-  abbr={NeurIPS'23},
-  title={Model sparsification can simplify machine unlearning},
-  author={Jia*, Jinghan and Liu*, Jiancheng and Ram, Parikshit and Yao, Yuguang and Liu, Gaowen and Liu, Yang and Sharma, Pranay and Liu, Sijia},
-  journal={arXiv preprint arXiv:2304.04934},
-  html={https://arxiv.org/pdf/2304.04934.pdf},
-  year={2023},
-  selected={true},
-  publisher = {NeurIPS 2023},
-  code={https://github.com/OPTML-Group/Unlearn-Sparse},
-  preview={unlearn_sparse.jpg},
-  bibtex_show={true}
-}
-
-@misc{https://doi.org/10.48550/arxiv.2211.11711,
-  abbr={SANER'23},
-  doi = {10.48550/ARXIV.2211.11711},
-  html={https://arxiv.org/pdf/2211.11711.pdf},
-  bibtex_show={true},
-  url = {https://arxiv.org/abs/2211.11711},
-  code={https://github.com/OPTML-Group/CLAW-SAT},
-  author = {Jia*, Jinghan and Srikant*, Shashank and Mitrovska, Tamara and Gan, Chuang and Chang, Shiyu and Liu, Sijia and O'Reilly, Una-May},
-  poster={../poster/CLAWSAT.png},
-  preview={Claw_sat_overview.png},  
-  keywords = {Machine Learning (cs.LG), Programming Languages (cs.PL), Software Engineering (cs.SE), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  selected={true},
-  title = {CLAWSAT: Towards Both Robust and Accurate Code Models},
-  year = {2023},
-  copyright = {Creative Commons Attribution 4.0 International}
-}
-
 @article{zhang2023generate,
   abbr={preprint},
   title={To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images... For Now},
@@ -90,6 +59,22 @@
   year      = {2023},
   abstract =   {Zeroth-order (ZO) optimization has become a popular technique for solving machine learning (ML) problems when first-order (FO) information is difficult or impossible to obtain. However, the scalability of ZO optimization remains an open problem: Its use has primarily been limited to relatively small-scale ML problems, such as sample-wise adversarial attack generation. To our best knowledge, no prior work has demonstrated the effectiveness of ZO optimization in training deep neural networks (DNNs) without a significant decrease in performance. To overcome this roadblock, we develop DeepZero, a principled ZO deep learning (DL) framework that can scale ZO optimization to DNN training from scratch through three primary innovations. First, we demonstrate the advantages of coordinate-wise gradient estimation (CGE) over randomized vector-wise gradient estimation in training accuracy and computational efficiency. Second, we propose a sparsity-induced ZO training protocol that extends the model pruning methodology using only finite differences to explore and exploit the sparse DL prior in CGE. Third, we develop the methods of feature reuse and forward parallelization to advance the practical implementations of ZO training. Our extensive experiments show that DeepZero achieves state-of-the-art (SOTA) accuracy on ResNet-20 trained on CIFAR-10, approaching FO training performance for the first time. Furthermore, we show the practical utility of DeepZero in applications of certified adversarial defense and DL-based partial differential equation error correction, achieving 10-20% improvement over SOTA. We believe our results will inspire future research on scalable ZO optimization and contribute to advancing DL with black box.}
 }
+@article{jia2023model,
+  abbr={NeurIPS'23},
+  title={Model sparsification can simplify machine unlearning},
+  author={Jia*, Jinghan and Liu*, Jiancheng and Ram, Parikshit and Yao, Yuguang and Liu, Gaowen and Liu, Yang and Sharma, Pranay and Liu, Sijia},
+  journal={arXiv preprint arXiv:2304.04934},
+  html={https://arxiv.org/pdf/2304.04934.pdf},
+  year={2023},
+  selected={true},
+  publisher = {NeurIPS 2023},
+  code={https://github.com/OPTML-Group/Unlearn-Sparse},
+  preview={unlearn_sparse.jpg},
+  bibtex_show={true}
+}
+
+
+
 
 @InProceedings{zhang2023selectivity,
   abbr={NeurIPS'23},
@@ -103,4 +88,22 @@
   booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
   year={2023},
   abstract =   {Massive data is often considered essential for deep learning applications, but it also incurs significant computational and infrastructural costs. Therefore, dataset pruning (DP) has emerged as an effective way to improve data efficiency by identifying and removing redundant training samples without sacrificing performance. In this work, we aim to address the problem of DP for transfer learning, i.e., how to prune a source dataset for improved pretraining efficiency and lossless finetuning accuracy on downstream target tasks. To our best knowledge, the problem of DP for transfer learning remains open, as previous studies have primarily addressed DP and transfer learning as separate problems. By contrast, we establish a unified viewpoint to integrate DP with transfer learning and find that existing DP methods are not suitable for the transfer learning paradigm. We then propose two new DP methods, label mapping and feature mapping, for supervised and self-supervised pretraining settings respectively, by revisiting the DP problem through the lens of source-target domain mapping. Furthermore, we demonstrate the effectiveness of our approach on numerous transfer learning tasks. We show that source data classes can be pruned by up to 40% without sacrificing the downstream performance, resulting in a significant 2~5 times speed-up during the pretraining stage. Besides, our proposal exhibits broad applicability and can improve other computationally intensive transfer learning techniques, such as adversarial pretraining.}
+}
+
+
+@misc{https://doi.org/10.48550/arxiv.2211.11711,
+  abbr={SANER'23},
+  doi = {10.48550/ARXIV.2211.11711},
+  html={https://arxiv.org/pdf/2211.11711.pdf},
+  bibtex_show={true},
+  url = {https://arxiv.org/abs/2211.11711},
+  code={https://github.com/OPTML-Group/CLAW-SAT},
+  author = {Jia*, Jinghan and Srikant*, Shashank and Mitrovska, Tamara and Gan, Chuang and Chang, Shiyu and Liu, Sijia and O'Reilly, Una-May},
+  poster={../poster/CLAWSAT.png},
+  preview={Claw_sat_overview.png},  
+  keywords = {Machine Learning (cs.LG), Programming Languages (cs.PL), Software Engineering (cs.SE), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  selected={true},
+  title = {CLAWSAT: Towards Both Robust and Accurate Code Models},
+  year = {2023},
+  copyright = {Creative Commons Attribution 4.0 International}
 }
