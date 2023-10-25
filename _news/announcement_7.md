@@ -4,4 +4,4 @@ date: 2023-09-22 07:59:00-0400
 inline: true
 ---
 
-:partying_face: Two paper accepted by [NeurIPS](https://neurips.cc/): [Model Sparsity Can Simplify Machine Unlearning](https://arxiv.org/abs/2304.04934) (Spotlight) and Selectivity Drives Productivity: Efficient Dataset Pruning for Enhanced Transfer Learning.
+:partying_face: Two paper accepted by [NeurIPS](https://neurips.cc/): [Model Sparsity Can Simplify Machine Unlearning](https://arxiv.org/abs/2304.04934) (Spotlight) and [Selectivity Drives Productivity: Efficient Dataset Pruning for Enhanced Transfer Learning](https://arxiv.org/abs/2310.08782).
