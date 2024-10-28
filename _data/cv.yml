@@ -35,6 +35,9 @@
 - title: Internship Experience
   type: time_table
   contents:
+    - title: Research Intern
+      institution: ByteDance Research
+      year: 2024
     - title: Applied Scientist Intern
       institution: Amazon
       year: 2023
