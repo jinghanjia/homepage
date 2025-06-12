@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Jinghan Jia, a forth-year Ph.D. student affiliated with the [OPTML Group](https://www.optml-group.com/) at Michigan State University, guided by Prof. [Sijia Liu](https://lsjxjtu.github.io/). My research focuses on advancing the trustworthiness and operational efficiency of AI systems, with a keen focus on bridging theoretical foundations and real-world applications.
+I am Jinghan Jia, a forth-year Ph.D. student affiliated with the [OPTML Group](https://www.optml-group.com/) at Michigan State University, guided by Prof. [Sijia Liu](https://lsjxjtu.github.io/). My research focuses on advancing the trustworthiness and operational efficiency of AI systems, with a keen focus on bridging theoretical foundations and real-world applications. **I am actively seeking research collaborations and full‑time job opportunities where I can apply and expand these research directions.**
 
 My research interets include following:
 
@@ -31,5 +31,3 @@ My research interets include following:
 📈 **Optimization for Modern AI**: My research explores advanced optimization techniques—including gradient‑free, zeroth‑order, and bi‑level optimization methods—to boost performance and scalability across diverse AI applications.
 
 **Research Keywords**: Foundation Models (LLMs / Diffusion Models), Trustworthy AI (Unlearning, Alignment, Privacy), Efficient Training (Sparsification, Memory-/Parameter-Efficient Fine-Tuning, MoE), LLM Reasoning (Test-Time Computing, Reasoning-Enhanced Training), Machine Learning, Zeroth-order Optimization, Bi-level Optimization, Convex/Non-convex Optimization
-
-I am actively seeking research collaborations and full‑time job opportunities where I can apply and expand these research directions.
