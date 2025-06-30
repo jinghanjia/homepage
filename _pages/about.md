@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Jinghan Jia, a forth-year Ph.D. student affiliated with the [OPTML Group](https://www.optml-group.com/) at Michigan State University, guided by Prof. [Sijia Liu](https://lsjxjtu.github.io/). My research focuses on advancing the trustworthiness and operational efficiency of AI systems, with a keen focus on bridging theoretical foundations and real-world applications. **I am actively seeking research collaborations and full‑time job opportunities where I can apply and expand these research directions.**
+I am Jinghan Jia, a fourth-year Ph.D. student affiliated with the [OPTML Group](https://www.optml-group.com/) at Michigan State University, guided by Prof. [Sijia Liu](https://lsjxjtu.github.io/). My research focuses on advancing the trustworthiness and operational efficiency of AI systems, with a keen focus on bridging theoretical foundations and real-world applications. **I am actively seeking research collaborations and full‑time job opportunities where I can apply and expand these research directions.**
 
 My research interets include following:
 
