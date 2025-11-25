@@ -20,6 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am Jinghan Jia, a fourth-year Ph.D. student affiliated with the [OPTML Group](https://www.optml-group.com/) at Michigan State University, guided by Prof. [Sijia Liu](https://lsjxjtu.github.io/). My research focuses on advancing the trustworthiness and operational efficiency of AI systems, with a keen focus on bridging theoretical foundations and real-world applications. **I am actively seeking research collaborations and full‑time job opportunities where I can apply and expand these research directions.**
 
+I am honored to have been selected as an **Anthropic AI Safety Research Fellow**, an exceptionally competitive program with an acceptance rate likely below 1%, with only around 32 fellows chosen worldwide.
+
 My research interets include following:
 
 🛡️ **Trustworthy and Aligned Foundation Models**: My work seeks to improve the reliability, safety, and ethical alignment of foundation models. I focus on machine unlearning, LLM alignment ,privacy-preserving techniques, and the development of robust AI systems that align with human values and can withstand real-world challenges. 
